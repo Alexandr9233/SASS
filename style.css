@@ -1,0 +1,13 @@
+body {
+  background-color: blue;
+  border: 5px solid black;
+  border-radius: 5px;
+}
+
+body div {
+  display: inline-block;
+  padding: 50px;
+  background-color: #899e9d;
+  border-radius: 3px;
+}
+/*# sourceMappingURL=style.css.map */
